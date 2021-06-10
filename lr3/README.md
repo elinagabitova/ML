@@ -138,8 +138,8 @@
 **Покемоны:**
 Пример распознания покемона:
 
-![Slowpoke](pokemons/1.jpg)
-![Slowpoke2](pokemons/1_detected.jpg)
+![Slowpoke](1.jpg)
+![Slowpoke2](1_detected.jpg)
 
 ### Выводы
 Из всех алгоритмов наилучшим оказался алгоритм RF, с помощью которого было классифицировано 47% покемонов (по accuracy)
